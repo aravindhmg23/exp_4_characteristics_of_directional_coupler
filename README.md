@@ -70,7 +70,8 @@ Directivity (dB) = P3-P4
 
 ## Observation
 
-*(Include your own calculation relevant to the experiment.)*
+<img width="1119" height="1600" alt="image" src="https://github.com/user-attachments/assets/c7bb036f-193a-4c38-990d-ba870fbb946a" />
+
 
 
 ## Precautions
